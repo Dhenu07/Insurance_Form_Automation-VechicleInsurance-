@@ -1,0 +1,158 @@
+{
+  "TestData":[
+  {
+   "VehicleType":"Truck",
+   "Make": "Honda",
+   "EnginePerformance": "34",
+   "DateOfManufacture": "10/13/2020",
+   "Seats": "6",
+    "Fuel": "Electric Power",
+    "Payload":"23",
+    "Weight":"580",
+    "ListPrice":"1500",
+    "LicensePlateNumber":"TN 37 UI",
+    "AnnualMileage":"222",
+
+  "FirstName": "Ravi",
+  "LastName": "Kumar",
+  "BirthDate": "02/08/1990",
+  "Gender": "Male",
+  "Street": "Gandhi Road",
+  "Country": "India",
+  "Zip": "600001",
+  "City": "Chennai",
+  "Occupation": "Public Official",
+  "Hobbies": "Speeding,Bungee Jumping,Cliff Diving",
+  "Website": "www.ravikumar.com",
+
+  "StartDate": "11/10/2025",
+  "InsuranceSum": "7000000",
+  "DamageInsurance": "No Coverage",
+  "OptionalProduct":"Legal Defense Insurance",
+     
+  "PriceOption":"Gold",
+
+  "Email": "ravi.kumar@example.com",
+  "Phone": "9876543210",
+  "Username": "ravikumar90",
+  "Password": "Secure@123",
+  "ConfirmPassword": "Secure@123",
+  "Comments": "Ready to proceed with the test"
+  },{
+    "VehicleType":"AutoMobile",
+    "Make": "Audi",
+    "EnginePerformance": "1000",
+    "DateOfManufacture": "01/01/2020",
+    "Seats": "4",
+    "Fuel": "Petrol",
+    "ListPrice":"2000",
+    "LicensePlateNumber":"TN 37 BE",
+    "AnnualMileage":"123",
+
+    "FirstName": "Dhenu",
+    "LastName": "DS",
+    "BirthDate": "01/01/1999",
+    "Gender": "Male",
+    "Street": "Main Street",
+    "Country": "India",
+    "Zip": "641601",
+    "City": "Tirupur",
+    "Occupation": "Employee",
+    "Hobbies":"Speeding,Skydiving",
+    "Website":"WWW.google.com",
+
+    "StartDate": "10/10/2025",
+    "InsuranceSum": "3000000",
+    "MeritRating": "Bonus 2",
+    "DamageInsurance": "Full Coverage",
+    "OptionalProduct":"Euro Protection",
+    "CourtesyCar":"Yes",
+     
+    "PriceOption":"Gold",
+
+    "Email": "dhenu@gmail.com",
+    "Phone":"9677842990",
+    "Username": "dhenutest",
+    "Password": "P@ssw0rd",
+    "ConfirmPassword":"P@ssw0rd",
+    "Comments":"Hi its time to test"
+  },{
+    "VehicleType":"Motorcycle",
+     "Make":"BMW",
+     "Model":"Motorcycle",
+     "CylinderCapacity":"30",
+     "EnginePerformance":"56",
+     "DateOfManufacture":"02/10/2022",
+     "Seats":"1",
+     "ListPrice":"2323",
+     "AnnualMileage":"234",
+  
+  
+    "FirstName": "Anjali",
+    "LastName": "Verma",
+    "BirthDate": "10/03/1995",
+    "Gender": "Female",
+    "Street": "Park Avenue",
+    "Country": "India",
+    "Zip": "110001",
+    "City": "New Delhi",
+    "Occupation": "Farmer",
+    "Hobbies": "Speeding",
+    "Website": "www.anjaliv.com",
+  
+      "StartDate": "10/10/2025",
+      "InsuranceSum": "5000000",
+      "DamageInsurance": "Partial Coverage",
+      "OptionalProduct":"Euro Protection",
+  
+      "PriceOption":"Silver",
+  
+    "Email": "anjali.verma@example.com",
+    "Phone": "9123456780",
+    "Username": "anjaliv95",
+    "Password": "Test@2025",
+    "ConfirmPassword": "Test@2025",
+    "Comments": "Automation in progress"
+  },{
+      "VehicleType":"Camper",
+      "Make":"Nissan",
+      "EnginePerformance": "111",
+      "DateOfManufacture":"08/20/2023",
+      "Seats":"4",
+      "RightHand":"Yes",
+      "Fuel":"Electric Power",
+      "Payload":"12",
+      "Weight":"1200",
+      "ListPrice":"1234",
+      "LicensePlateNumber":"RY 12 IY",
+      "AnnualMileage":"123",
+    
+      "FirstName": "Suresh",
+      "LastName": "Naik",
+      "BirthDate": "20/11/1985",
+      "Gender": "Male",
+      "Street": "MG Road",
+      "Country": "India",
+      "Zip": "560001",
+      "City": "Bangalore",
+      "Occupation":"Selfemployed",
+      "Hobbies": "Gardening,Chess",
+      "Website": "www.sureshnaik.in",
+    
+      "StartDate": "12/10/2025",
+      "InsuranceSum": "7000000",
+      "DamageInsurance": "Full Coverage",
+      "OptionalProduct":"Legal Defense Insurance",
+    
+      "PriceOption":"Ultimate",
+    
+      "Email": "suresh.naik@example.com",
+      "Phone": "9012345678",
+      "Username": "sureshnaik",
+      "Password": "MyPass#789", 
+      "ConfirmPassword": "MyPass#789",
+      "Comments": "Test case complete"
+  
+  }]
+  }
+
